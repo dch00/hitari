@@ -1,2 +1,0 @@
-# hitari
-Created with CodeSandbox
